@@ -1,0 +1,2 @@
+yesNo : Boolean
+yesNo == "true"
